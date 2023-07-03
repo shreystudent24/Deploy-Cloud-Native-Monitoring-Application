@@ -5,7 +5,7 @@ FROM python:3.9-buster
 WORKDIR /app
 
 #Copy the requirements file into the working directory
-COPY requiremnts.txt .
+COPY requirements.txt .
 
 #Install the necessary python packages in the directory with no cache issue
 RUN pip3 install --no-cache-dir -r requirements.txt
