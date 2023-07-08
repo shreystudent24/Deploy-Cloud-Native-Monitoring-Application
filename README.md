@@ -1,4 +1,4 @@
-# Cloud-Native Application Monitoring Application<br>
+# Cloud-Native Monitoring Application<br>
 
 This repository contains a cloud-native application monitoring application deployed in Kubernetes using AWS.
 
