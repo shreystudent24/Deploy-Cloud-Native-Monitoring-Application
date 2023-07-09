@@ -52,3 +52,8 @@ Follow these steps to deploy the cloud-native application monitoring application
 ## Contributing<br>
 
 Contributions are welcome! If you have any ideas, bug fixes, or improvements, feel free to open an issue or submit a pull request.<br>
+
+
+## Acknowledgements <br><br>
+
+Feel free to customize this README file based on your specific cloud-native application monitoring application, deployment details, and any additional sections or information you find relevant.
