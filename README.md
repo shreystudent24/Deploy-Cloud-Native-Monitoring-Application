@@ -25,6 +25,9 @@ Before deploying the monitoring application, ensure that you have the following 
 
 - A running Kubernetes cluster (e.g., using Amazon EKS).<br>
 - AWS credentials with appropriate permissions to create and configure the necessary resources.<br>
+- Docker<br>
+- Kubectl<br>
+- Python 3<br>
 
 ## Deployment<br><br>
 
